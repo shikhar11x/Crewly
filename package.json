@@ -1,0 +1,10 @@
+﻿{
+  "name": "crewly",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "mobile": "npm --prefix apps/mobile run start",
+    "lint": "npm --prefix apps/mobile run lint",
+    "typecheck": "npm --prefix apps/mobile run typecheck"
+  }
+}
